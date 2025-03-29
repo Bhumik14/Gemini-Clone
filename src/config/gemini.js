@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const apiKey = "AIzaSyBlB2cqgUtVsIH6Zu93O42jFhUpcWSIiG8"; // Ensure you have this in your .env
+const apiKey = "API_KEY"; // Ensure you have this in your .env
 const genAI = new GoogleGenerativeAI(apiKey);
 
 async function run(prompt) {
