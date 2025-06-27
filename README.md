@@ -12,12 +12,7 @@ A sleek, responsive web app that emulates Google's Gemini AI chatbot using React
 4. [Demo](#demo)  
 5. [Installation](#installation)  
 6. [Environment Variables](#environment-variables)  
-7. [Usage](#usage)  
-8. [Customizing & Extending](#customizing--extending)  
-9. [Deployment](#deployment)  
-10. [Contributing](#contributing)  
-11. [License](#license)  
-12. [Acknowledgements](#acknowledgements)  
+7. [Usage](#usage)   
 
 ---
 
